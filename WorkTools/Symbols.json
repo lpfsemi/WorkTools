@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "PS1",
+    "Description": "PS1 valve",
+    "Path": ".PcVacuum_controllerData[2]",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": true,
+    "IsVisiable": true
+  },
+  {
+    "Name": "PS2",
+    "Description": "PS2 valve",
+    "Path": ".PcVacuum_controllerData[5]",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": false,
+    "IsVisiable": false
+  },
+  {
+    "Name": "PS3",
+    "Description": "PS3 valve",
+    "Path": ".PcVacuum_controllerData[1]",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": true,
+    "IsVisiable": true
+  },
+  {
+    "Name": "DG",
+    "Description": "DG valve",
+    "Path": ".PcVacuum_controllerData[3]",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": true,
+    "IsVisiable": true
+  },
+  {
+    "Name": "HG",
+    "Description": "HG valve",
+    "Path": ".PcVacuum_controllerData[4]",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": false,
+    "IsVisiable": false
+  },
+  {
+    "Name": "LTIRTempe",
+    "Description": "Low Temperature valve",
+    "Path": ".Pc_LowTempSN_Target",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": true,
+    "IsVisiable": false
+  },
+  {
+    "Name": "HTIRTemp",
+    "Description": "Hight Temperature valve",
+    "Path": ".Pc_HighTempSN_Target",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": true,
+    "IsVisiable": false
+  },
+  {
+    "Name": "CalTIRTemp",
+    "Description": "Cal Temperature valve",
+    "Path": ".Pc_DiasMeas_Temp",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": true,
+    "IsVisiable": false
+  },
+  {
+    "Name": "Voltage",
+    "Description": "Voltage valve",
+    "Path": ".PcCurrentVoltmeter_V",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": true,
+    "IsVisiable": false
+  },
+  {
+    "Name": "Current",
+    "Description": "Current valve",
+    "Path": ".PcCurrentVoltmeter_A",
+    "Type": "System.Single, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "CanRead": true,
+    "IsVisiable": false
+  }
+]
